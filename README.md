@@ -38,8 +38,8 @@ Train the model over multiple epochs, tracking loss.
 
 
 ## PROGRAM
-# NAME :RANJAN KUMAR G
-# REG NO:212223240138
+# NAME : BAUDHIGAN D
+# REG NO:212223230028
 ```
 import pandas as pd
 import torch
